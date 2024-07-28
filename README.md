@@ -19,3 +19,9 @@ TODO:
    npm start
 
 ```
+
+## Stacks:
+  - TypeScript
+  - MySql
+  - Prisma
+  - Express
